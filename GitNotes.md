@@ -8,7 +8,7 @@ mkdir- make new directory (name)
 git clone https://github.com/keithb2/TimeTracker.git
 ```
 
-git
+## git
 
 git add .  -first step
 

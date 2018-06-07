@@ -1,0 +1,29 @@
+Notes
+
+1) Describe Class vs Instance.
+
+Class = Blueprint from which objects are created.
+Instance = Same as an object.
+Object = Similiar to real world object.
+
+2) What is an Angular component?
+
+Component = Basic building block of a UI (user interface)
+Think of a "component" as a container for blocks of code.
+
+3) What is the difference between a Property and a Method?
+                                                                    Property is a value
+Method:                                                             Method is a function
+- Function stored in an object.                                     Example:
+- Contains action statements.                                       Car{color,Model,Brand}
+- Returns results (values) of work being done.                      Car is the Object. 
+- Represents action, encapsulates an operation.                     Color,Model,Brand is the Property
+
+Property:
+- Represents data.
+- Retrieves data from an object.
+
+4) Describe a class as it is used in Hero.ts.
+
+I did not get to this question.
+  
